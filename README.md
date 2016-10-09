@@ -1,6 +1,6 @@
 # [Harameb Spin](http://harambe.wesleytian.com)
 
-Inspired by Feross
+Inspired by Feross Aboukhadijeh
 ## Built with
 
 * jQuery - <http://jquery.com/>
