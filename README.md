@@ -1,4 +1,4 @@
-# [Harameb Spin](http://harambe.wesleytian.com)
+# [Harambe Spin](http://harambe.wesleytian.com)
 
 Seemed like a funny little project to do.
 
