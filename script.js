@@ -6,14 +6,14 @@ function forHarambe() {
     $('.harambe').animate({transform: 'rotate(360deg)'}, 5000, 'linear', forHarambe);
 }
 
-function doLSD() {
+function doSpin() {
     if (colorIndex >= colornames.length) {
         colorIndex = 0;
     }
-    $('body').animate({'background-color': colornames[colorIndex] + ' !important'}, 500, doLSD);
+    $('body').animate({'background-color': colornames[colorIndex] + ' !important'}, 500, doSpin);
     colorIndex++;
 }
 $( document ).ready(function() {
     forHarambe();
-    doLSD();
+    doSpin();
 });
